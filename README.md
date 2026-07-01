@@ -2,7 +2,7 @@
 
 Business analyst focused on data, digital operations, and AI-enabled process improvement.
 
-I have 10+ years of experience translating business needs and stakeholder questions into digital, data, and automation solutions across web, CRM, marketing automation, BI, consent governance, and post-M&A platform migrations in regulated multinational environments. My current work focuses on reproducible analytics pipelines, applied modelling, KPI construction, and decision-ready reporting, with a particular interest in football intelligence and financial performance.
+I have 10+ years of experience translating business needs and stakeholder questions into digital, data, and automation solutions across web, CRM, marketing automation, BI, consent governance, and post-M&A platform migrations in regulated multinational environments. My current work focuses on reproducible analytics pipelines, data quality, applied modelling, KPI construction, and decision-ready reporting, with a particular interest in football intelligence and financial performance.
 
 ## Featured Project
 
@@ -22,9 +22,9 @@ The project covers the full workflow:
 
 - business analysis across digital operations, CRM, BI, and automation workflows;
 - stakeholder discovery, requirements capture, KPI definition, and analytical framing;
-- data pipelines for messy real-world sources and reproducible analysis;
+- data pipelines, data quality, and governance for messy real-world sources;
 - dashboards, reporting, and analytical storytelling for stakeholders;
-- GenAI and agentic AI applied to scraping, ETL, EDA, modelling, documentation, and reporting;
+- GenAI and agentic AI applied operationally to scraping, ETL, EDA, modelling, documentation, and reporting;
 - sports analytics, football intelligence, and finance-valuation-performance benchmarking.
 
 ## Tools
@@ -33,7 +33,7 @@ The project covers the full workflow:
 
 **Digital operations & MarTech:** GA4/GTM, Oracle Eloqua, Adobe Experience Manager, Microsoft Dynamics, SAP, OneTrust, Didomi, Qualtrics.
 
-**Web & automation:** HTML, CSS, JavaScript, PHP, WordPress, Git, GenAI/agentic AI tooling.
+**Web & automation:** HTML, CSS, JavaScript, PHP, WordPress, Git, LLM-assisted coding and workflow automation.
 
 ## Links
 
