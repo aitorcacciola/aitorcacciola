@@ -1,8 +1,8 @@
 # Aitor Cacciola
 
-Digital operations, MarTech, data analytics, and AI automation.
+Business analyst focused on data, digital operations, and AI-enabled process improvement.
 
-I have 10+ years of experience owning enterprise digital stacks across web, marketing automation, CRM, BI, consent governance, and post-M&A platform migrations in regulated multinational environments. My current work focuses on reproducible data pipelines, applied modelling, and business-facing analytics, with a particular interest in football intelligence and financial performance.
+I have 10+ years of experience translating business needs into digital, data, and automation solutions across web, CRM, marketing automation, BI, consent governance, and post-M&A platform migrations in regulated multinational environments. My current work focuses on reproducible analytics pipelines, applied modelling, and decision-ready reporting, with a particular interest in football intelligence and financial performance.
 
 ## Featured Project
 
@@ -19,11 +19,11 @@ The project covers the full workflow:
 
 ## What I Work On
 
-- data pipelines for messy real-world sources;
-- marketing automation, web operations, CRM, BI, and consent-governance workflows;
+- business analysis across digital operations, CRM, BI, and automation workflows;
+- data pipelines for messy real-world sources and reproducible analysis;
+- KPI definition, dashboards, reporting, and analytical storytelling for stakeholders;
 - GenAI and agentic AI applied to scraping, ETL, EDA, modelling, documentation, and reporting;
-- sports analytics, football intelligence, and financial performance benchmarking;
-- executive-ready dashboards, reporting, and analytical storytelling.
+- sports analytics, football intelligence, and financial performance benchmarking.
 
 ## Tools
 
