@@ -1,6 +1,8 @@
 # Aitor Cacciola
 
-Data analytics and football analytics projects focused on reproducible pipelines, applied modelling, and business-facing interpretation.
+Digital operations, MarTech, data analytics, and AI automation.
+
+I have 10+ years of experience owning enterprise digital stacks across web, marketing automation, CRM, BI, consent governance, and post-M&A platform migrations in regulated multinational environments. My current work focuses on reproducible data pipelines, applied modelling, and business-facing analytics, with a particular interest in football intelligence and financial performance.
 
 ## Featured Project
 
@@ -15,13 +17,19 @@ The project covers the full workflow:
 - financial-statement ingestion and club-season normalization;
 - final squad-efficiency analysis with regression tests, benchmark scores, tables, and figures.
 
-## Interests
+## What I Work On
 
-- sports analytics and football intelligence;
-- data engineering for messy real-world sources;
-- reproducible research workflows;
-- business and financial performance analysis.
+- data pipelines for messy real-world sources;
+- marketing automation, web operations, CRM, BI, and consent-governance workflows;
+- GenAI and agentic AI applied to scraping, ETL, EDA, modelling, documentation, and reporting;
+- sports analytics, football intelligence, and financial performance benchmarking;
+- executive-ready dashboards, reporting, and analytical storytelling.
 
 ## Tools
 
-Python, pandas, Jupyter, scikit-learn, XGBoost, matplotlib, seaborn, Git.
+Python, pandas, Jupyter, scikit-learn, XGBoost, SQL, R, Power Query, Power BI, Tableau, GA4/GTM, Oracle Eloqua, Adobe Experience Manager, Microsoft Dynamics, SAP, Git.
+
+## Links
+
+- [Flagship repository: football-squad-efficiency](https://github.com/aitorcacciola/football-squad-efficiency)
+- [LinkedIn](https://www.linkedin.com/in/aitor-cacciola)
