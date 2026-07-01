@@ -27,7 +27,11 @@ The project covers the full workflow:
 
 ## Tools
 
-Python, pandas, Jupyter, scikit-learn, XGBoost, SQL, R, Power Query, Power BI, Tableau, GA4/GTM, Oracle Eloqua, Adobe Experience Manager, Microsoft Dynamics, SAP, Git.
+**Data & analytics:** Python, pandas, Jupyter, SQL, R, Power Query, Power BI, Tableau, scikit-learn, XGBoost.
+
+**Digital operations & MarTech:** GA4/GTM, Oracle Eloqua, Adobe Experience Manager, Microsoft Dynamics, SAP, OneTrust, Didomi.
+
+**Web & automation:** HTML, CSS, JavaScript, PHP, WordPress, Git, GenAI/agentic AI tooling.
 
 ## Links
 
